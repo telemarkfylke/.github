@@ -1,2 +1,2 @@
 # .github
-Profile information for Telemark Fylkeskommune
+Profilinformasjon for Telemark Fylkeskommune
